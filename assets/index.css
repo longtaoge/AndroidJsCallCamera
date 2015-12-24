@@ -1,0 +1,23 @@
+body {
+	background-color:#008863;
+}
+
+header {
+	color:#000000;
+}
+
+footer {
+	color:blue;
+}
+	
+#imgdiv {
+	width:200px;
+    margin:0px auto;
+    padding:0px;
+    text-align:center;
+    border:0px solid #202020;
+}
+
+p {
+	color:red;
+}

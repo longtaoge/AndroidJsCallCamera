@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <title>html 调用相机功能</title>
+    <script type="text/javascript" src="index.js"></script>
+    <link href="ionic/css/ionic.css" rel="stylesheet">
+</head>
+<body>
+<h2 style="text-align:center;">html 调用相机功能</h2>
+<header>
+    <div class="bar bar-header bar-positive">
+        <h1 class="title">html 调用相机</h1>
+    </div>
+
+</header>
+
+<div class="row " style="padding: 20px">
+    <div class="col col-33"></div>
+    <div class=" col  col-offset-33  " onClick="window.xiangbalao.getCamera()" style="margin:0 auto;">
+        <img id="droid" src="android_normal.png" style="width: 100%;margin: 0 auto;text-align:center;"/>
+    </div>
+    <div class="col col-33"></div>
+</div>
+<div class="row"></div>
+<div class="row">
+    <div class="col col-33"></div>
+    <div class="col col-offset-33" style="margin: 0 auto;" >
+        <div onClick="window.xiangbalao.getCamera()" class="button  button-positive ion-android-camera "
+             style="font-size: xx-large;color: orangered;width: 100%;padding: 5px;margin: 0 auto;text-align:center;"></div>
+    </div>
+    <div class="col col-33"></div>
+
+</div>
+</body>
+</html>
