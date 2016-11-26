@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/res/merged/debug/drawable/background.xml",
+        "source": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/src/main/res/drawable/background.xml"
+    },
+    {
+        "merged": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/res/merged/debug/drawable/callcamera.png",
+        "source": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/src/main/res/drawable/callcamera.png"
+    },
+    {
+        "merged": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/src/main/res/drawable/icon.png"
+    }
+]
