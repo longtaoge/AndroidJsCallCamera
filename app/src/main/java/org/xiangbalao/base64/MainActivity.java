@@ -95,10 +95,10 @@ public class MainActivity extends Activity implements OnClickListener {
 
     // js调用android摄像头
     @JavascriptInterface
-    public void getCamera() {
+    public void getCamera(String s) {
 
 
-        LogUtil.i(MainActivity.class.getSimpleName(), "-----");
+        LogUtil.i(MainActivity.class.getSimpleName(), "-----" + s);
 
         callCamera();
 

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 26 14:06:37 CST 2016
+#Sat Nov 26 14:37:07 CST 2016
 76.base=/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/assets/debug
 5.base=/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/res/resources-debug.ap_
 42.base=/Users/longtaoge/AndroidApp/AndroidJsCallCamera/app/build/intermediates/assets/debug
