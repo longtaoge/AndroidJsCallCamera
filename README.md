@@ -1,6 +1,6 @@
 # AndroidJsCallCamera
 html调用Android 相机
-![](https://github.com/longtaoge/AndroidJsCallCamera/blob/master/res/drawable/callcamera.png)
+![](https://github.com/longtaoge/AndroidJsCallCamera/blob/master/app/src/main/res/drawable/callcamera.png)
 
 License
 --------
