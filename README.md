@@ -1,4 +1,7 @@
 # AndroidJsCallCamera
+
+[![Gitter](https://badges.gitter.im/longtaoge/SelectName.svg)](https://app.element.io/#/room/%23AndroidJsCallCamera%3Agitter.im?via=gitter.im) 
+
 html调用Android 相机
 ![](https://github.com/longtaoge/AndroidJsCallCamera/blob/master/app/src/main/res/drawable/callcamera.png)
 
